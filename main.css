@@ -1,0 +1,48 @@
+body{
+background: F0E0FF
+;
+
+}
+
+h2{
+	border-bottom: solid 1px #eee;
+}
+
+.demo-box{
+border: 2px solid #B2ACA4;
+padding:  2px 5px;
+min-height: 180px;
+max-width: 600px;
+
+}
+
+#inputBody{
+width: 80%;
+margin: 0 auto;
+}
+
+#text{
+	display: block;
+	min-height: 100px;
+	width: 70%;
+}
+
+#text:hover{
+	
+	background-color:pink;	
+}
+
+input{
+	height: 20px;
+	width: 80%;
+}
+
+
+
+
+/*#text{
+background-image: none;
+opacity: 1;
+background-position: initial initial;
+background-repeat: initial initial;
+}*/
